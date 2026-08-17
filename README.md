@@ -10,7 +10,6 @@
 ## 📚 Final Project – Data Structures Course
 
 **Instructor:** Dr. Mojtaba Khalili  
-**Developer:** Kourosh Jamshidi  
 **Faculty:** Electrical & Computer Engineering  
 **Academic Year:** 2024–2025  
 
